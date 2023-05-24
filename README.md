@@ -2,7 +2,7 @@
 
 ## 使用说明
 
-若想在本地阅读，请先[安装 Rust](https://www.rust-lang.org/tools/install),然后进行下面操作：
+若想在本地阅读，请先[安装 Rust](https://www.rust-lang.org/tools/install)，然后进行下面操作：
 
 ```bash
 $ git clone https://github.com/Yogurt-994/computer-networks-cn
